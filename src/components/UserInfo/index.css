@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.unserinfo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'roboto';
+}
+.img {
+  height: 100px;
+  width: 100px;
+}
+.unserinfo-heading {
+  font-size: 16px;
+  margin: 0px;
+}
+.unserinfo-description{
+  font-size: 10px;
+  margin: 0px;
+
+}

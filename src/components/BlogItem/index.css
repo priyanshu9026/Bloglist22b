@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.blogitem-container {
+  width: 100%;
+  list-style-type: none;
+  border-bottom: 1px solid #e7e5e2;
+}
+.blogitem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.heading {
+  font-size: 18px;
+  font-family: 'roboto';
+  font-weight: 500;
+}
+.description {
+  font-size: 13px;
+  font-family: 'roboto';
+}
